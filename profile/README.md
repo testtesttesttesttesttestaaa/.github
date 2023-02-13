@@ -12,11 +12,17 @@
 
 # Summand
 <p> Summand is a cli that can help you to manage your commands. </p>
-<a href="https://summand.dev">Summand.dev</a><br>
-<a>Summand Documentation</a><br>
-<a>Summand Download</a><br>
-<a>Support Summand</a>
+
+* [Summand.dev](https://summand.dev) Summand Official Website
+* [Summand Documentation](https://docs.summand.dev) Summand Docs
+* [Summand Download](https://download.summand.dev) Summand Download Mirror And Instalation 
+* [Support Summand](https://support.summand.dev) Support Summand Project
+* [Summand Bug Tracker](https://bugs.summand.dev) Report Bugs
+* [Summand Changelog](https://docs.summand.dev/changelog) Summand Latest Updates
+* [Summand Privacy Policy and Terms Of Use](https://summand.dev/policy) Privacy Policy and Terms Of Use
 
 ## Features
-
+* hi
+* f
+* f
 ## 
