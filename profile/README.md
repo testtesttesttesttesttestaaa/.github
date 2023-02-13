@@ -1,12 +1,12 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
-    <em>Summand, Manage your commands</em>
+    <em>Summand: Manage, Share, Compact and Automate your commands</em>
 </p>
 
 <p align="center">
 <a href="mailto:info@summand.dev">Email</a>
-<a href="https://summand.dev">summand.dev</a>
+<a href="https://summand.dev">Website</a>
 <a href="https://twitter.com/summand">Twitter</a>
 </p>
 
