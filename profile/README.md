@@ -15,7 +15,7 @@
 
 * [Summand.dev](https://summand.dev) Summand Official Website
 * [Summand Documentation](https://docs.summand.dev) Summand Docs
-* [Summand Download](https://download.summand.dev) Summand Download Mirror And Instalation 
+* [Summand Download](https://download.summand.dev) Summand Download Mirror And Installation 
 * [Support Summand](https://support.summand.dev) Support Summand Project
 * [Summand Bug Tracker](https://bugs.summand.dev) Report Bugs
 * [Summand Changelog](https://docs.summand.dev/changelog) Summand Latest Updates
