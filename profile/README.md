@@ -11,7 +11,11 @@
 </p>
 
 # Summand
-<p> Summand is a cli that can help you to manage your commands. </p>
+<p>Summand is a CLI that can help you to manage your commands. And you can use it to make your linux commands Simpler and More Effective you can Share your Workflows with others Compile it and add Extra Processes to your Commands.</p>
+
+You can find Examples of using Summand [here](https://summand.dev/examples)
+
+Useful links:
 
 * [Summand.dev](https://summand.dev) Summand Official Website
 * [Summand Documentation](https://docs.summand.dev) Summand Docs
