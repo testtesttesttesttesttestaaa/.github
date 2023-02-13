@@ -21,8 +21,6 @@
 * [Summand Changelog](https://docs.summand.dev/changelog) Summand Latest Updates
 * [Summand Privacy Policy and Terms Of Use](https://summand.dev/policy) Privacy Policy and Terms Of Use
 
-## Features
-* hi
-* f
-* f
-## 
+---
+
+Feel free to contact us at contact@summand.dev
